@@ -1,0 +1,1 @@
+Examples from the book [Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions](https://pragprog.com/book/vsjava8/functional-programming-in-java)
